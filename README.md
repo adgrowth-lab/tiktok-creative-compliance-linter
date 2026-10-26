@@ -1,18 +1,19 @@
-# TikTok Ads Creative Compliance & Sensitive Word Linter (2026 Edition) 🛡️
+# TikTok Ads Creative Compliance & Sensitive Word Linter (2026 Edition): Fix TikTok Ad Rejected Policy 5.1 & Protect Your Ad Spend 🛡️
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python&logoColor=white)](linter.py)
 [![Test Suite: 100% Passed](https://img.shields.io/badge/Tests-9%2F9_Passing-brightgreen?style=for-the-badge)](test_linter.py)
-[![Official Partner Gateway](https://img.shields.io/badge/Official_Route-Claim_Up_To_$6,000_Credit-25f4ee?style=for-the-badge&logo=tiktok&logoColor=black)](https://getstartedtiktok.partnerlinks.io/apmgdhnv6eng)
-[![Live Web Simulator](https://img.shields.io/badge/Web_App-Interactive_Simulator-fe2c55?style=for-the-badge&logo=tiktok&logoColor=white)](https://adgrowth-lab.github.io/)
+[![TikTok Ads Credit: Up to $6,000 Match](https://img.shields.io/badge/TikTok_Ads_Credit-Up_To_$6,000_Match-25f4ee?style=for-the-badge&logo=tiktok&logoColor=black)](https://adgrowth-lab.github.io/)
+[![Official Partner Gateway](https://img.shields.io/badge/Official_Route-Direct_TikTok_Partner-fe2c55?style=for-the-badge&logo=tiktok&logoColor=white)](https://getstartedtiktok.partnerlinks.io/apmgdhnv6eng)
 [![Master Field Guide](https://img.shields.io/badge/Ecosystem-TikTok_Troubleshooting_Suite-orange?style=for-the-badge)](https://github.com/adgrowth-lab/tiktok-ads-troubleshooting)
 
 > **The empirical pre-flight compliance linter and policy scanner for TikTok Ads copy, video voiceover transcripts, hook text, and landing page claims.**  
-> Built to bypass automated OCR/Whisper rejections, prevent ad group disapprovals, and protect your TikTok Business Center from algorithmic bans. Zero external dependencies.
+> Built to eliminate **TikTok ad rejected Policy 5.1** disapprovals, scan against the **TikTok ads sensitive words list**, bypass automated OCR/Whisper filters, and protect your ad account spend and **TikTok ad credits**. Zero external dependencies.
 
 > 🎁 **OFFICIAL TIKTOK PARTNER INCENTIVE GATEWAY (CLAIM UP TO $6,000 CREDIT)**:  
 > High-velocity media buyers can bypass personal ad account probation sandboxes ($50/day spend caps) and claim **up to $6,000 in official matching ad credits** directly through the verified partner gateway:  
 > 👉 **[Direct TikTok Ads Manager Partner Registration (partnerlinks.io)](https://getstartedtiktok.partnerlinks.io/apmgdhnv6eng)**  
+> 🧮 **Interactive Modeling Simulator**: **[Launch Web Match Calculator (adgrowth-lab.github.io)](https://adgrowth-lab.github.io/)**  
 > *(Official ByteDance enterprise partnership route via Impact.com · Automatic 100%–60% spend matching on new accounts)*
 
 ---
@@ -167,6 +168,22 @@ A common question among security-conscious media buyers is: *Why does the offici
 1. **Official Enterprise Partnership Infrastructure**: `partnerlinks.io` is the verified enterprise partnership tracking gateway operated by **Impact (Impact.com)**, the exclusive enterprise partner platform employed by **TikTok for Business** worldwide.
 2. **Automated Security Handshake**: Clicking the link performs an authenticated HTTPS security redirect directly into `ads.tiktok.com` with the agency referral token embedded.
 3. **Zero Broker Risk**: You register directly on TikTok's official Ads Manager servers. No secondary broker markups, no shared account logins, and no third-party credential exposure.
+
+---
+
+## 🔍 Ubersuggest Long-Tail Keyword & Policy Compliance Index
+
+Mapping high-frequency advertiser policy search queries directly to linter rules and safe alternatives:
+
+| Advertiser Search Query / Issue | Policy Clause | High-Risk Term Pattern | Compliant Alternative Recommendation |
+| :--- | :--- | :--- | :--- |
+| **`tiktok ad rejected policy 5.1 misleading claims`** | Policy 5.1 | `100% guaranteed`, `miracle cure`, `permanent fix`, `risk-free` | Rephrase to *"Formulated to support..."* or *"Designed for daily comfort"* |
+| **`tiktok ads before and after weight loss policy`** | Policy 5.2 | `lose 10 lbs in 7 days`, `belly fat melt`, `before and after body` | Focus on active lifestyle, general fitness motivation, or ingredient benefits |
+| **`tiktok ads get rich quick passive income banned`** | Policy 5.3 | `make $500/day while sleeping`, `crypto secret`, `financial freedom fast` | Position around digital skills, marketing workflows, and verified educational concepts |
+| **`tiktok ads clickbait system warning simulated alert`** | Policy 5.4 | `system alert`, `tap before banned`, `secret glitch`, `they don't want you to know` | Lead with genuine creator storytelling and transparent product utility |
+| **`tiktok ads sensitive words list 2026`** | General Risk Engine | Broad profanity, aggressive comparison, uncertified medical promises | Run `python3 linter.py --text "your ad script"` to audit before launch |
+| **`tiktok ad creative guidelines for dropshipping`** | Multi-Policy | Misleading shipping times, replica brand names, non-functional checkout | Add clear refund/shipping policy footers; ensure landing page claim parity |
+| **`tiktok ads creative fatigue high cpa`** | Creative Exhaustion | Re-uploading identical burned video assets triggering spam filters | Recut first 1.5s hook using the 3x3 Creative Matrix and Spark Ads |
 
 ---
 
