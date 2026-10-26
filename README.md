@@ -5,6 +5,8 @@
 [![Test Suite: 100% Passed](https://img.shields.io/badge/Tests-9%2F9_Passing-brightgreen?style=for-the-badge)](test_linter.py)
 [![TikTok Ads Credit: Up to $6,000 Match](https://img.shields.io/badge/TikTok_Ads_Credit-Up_To_$6,000_Match-25f4ee?style=for-the-badge&logo=tiktok&logoColor=black)](https://adgrowth-lab.github.io/)
 [![Official Partner Gateway](https://img.shields.io/badge/Official_Route-Direct_TikTok_Partner-fe2c55?style=for-the-badge&logo=tiktok&logoColor=white)](https://getstartedtiktok.partnerlinks.io/apmgdhnv6eng)
+[![Latest Release](https://img.shields.io/badge/Release-v2026.1.0-blue?style=for-the-badge&logo=github)](https://github.com/adgrowth-lab/tiktok-creative-compliance-linter/releases)
+[![Resolved Cases](https://img.shields.io/badge/Resolved_Cases-4_Verified_Q&A-brightgreen?style=for-the-badge&logo=github)](https://github.com/adgrowth-lab/tiktok-creative-compliance-linter/issues?q=is%3Aissue+is%3Aclosed)
 [![Master Field Guide](https://img.shields.io/badge/Ecosystem-TikTok_Troubleshooting_Suite-orange?style=for-the-badge)](https://github.com/adgrowth-lab/tiktok-ads-troubleshooting)
 
 > **The empirical pre-flight compliance linter and policy scanner for TikTok Ads copy, video voiceover transcripts, hook text, and landing page claims.**  
@@ -184,6 +186,19 @@ Mapping high-frequency advertiser policy search queries directly to linter rules
 | **`tiktok ads sensitive words list 2026`** | General Risk Engine | Broad profanity, aggressive comparison, uncertified medical promises | Run `python3 linter.py --text "your ad script"` to audit before launch |
 | **`tiktok ad creative guidelines for dropshipping`** | Multi-Policy | Misleading shipping times, replica brand names, non-functional checkout | Add clear refund/shipping policy footers; ensure landing page claim parity |
 | **`tiktok ads creative fatigue high cpa`** | Creative Exhaustion | Re-uploading identical burned video assets triggering spam filters | Recut first 1.5s hook using the 3x3 Creative Matrix and Spark Ads |
+
+---
+
+## 💬 Solved Compliance Cases & Community Policy Q&A
+
+Real creative policy rejections and ad copy issues resolved using the linter:
+
+| Solved Case / Policy Discussion | Policy Area | Verified Fix & Rephrase Strategy | Direct Q&A Link |
+| :--- | :--- | :--- | :--- |
+| **`[Solved] How to fix "TikTok ad rejected under Policy 5.1 (Misleading Claims and Exaggerated Promises)"`** | Policy 5.1 Superlatives | Replaced absolute promises ("100% cure") with supportive intent phrasing ("Formulated to support"). | [View Solution #1](https://github.com/adgrowth-lab/tiktok-creative-compliance-linter/issues/1) |
+| **`[Cheatsheet] TikTok Ads sensitive words list (2026 Edition): Full list of OCR trigger words and compliant rewrites`** | OCR / Whisper Keywords | Compiled master reference across health, passive income, and profanity categories. | [View Solution #2](https://github.com/adgrowth-lab/tiktok-creative-compliance-linter/issues/2) |
+| **`[Case Study] TikTok ads before-and-after weight loss policy rejection: How to pass OCR & Whisper AI inspection`** | Policy 5.2 Body Imagery | Replaced split-screen Before/After photos with continuous workout motion and UGC Spark Ads. | [View Solution #3](https://github.com/adgrowth-lab/tiktok-creative-compliance-linter/issues/3) |
+| **`[Alert] Why simulated system alerts and fake notifications get your TikTok Business Center banned`** | Policy 5.4 Deceptive UI | Eliminated simulated iOS battery/call overlays to prevent Business Center algorithmic flags. | [View Solution #4](https://github.com/adgrowth-lab/tiktok-creative-compliance-linter/issues/4) |
 
 ---
 
